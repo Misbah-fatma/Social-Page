@@ -1,0 +1,6 @@
+.Posts{
+    display: flow-root;
+    flex-direction: column;
+    gap: 1rem;
+    
+}
